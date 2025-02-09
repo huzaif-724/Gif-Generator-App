@@ -15,4 +15,3 @@ HTML <br/>
 CSS <br/>
 JavaScript <br/>
 
-## Screenshots
